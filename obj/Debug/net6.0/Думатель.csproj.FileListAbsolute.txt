@@ -1,0 +1,15 @@
+C:\Users\Yusuf\source\repos\Думатель\bin\Debug\net6.0\Думатель.exe
+C:\Users\Yusuf\source\repos\Думатель\bin\Debug\net6.0\Думатель.deps.json
+C:\Users\Yusuf\source\repos\Думатель\bin\Debug\net6.0\Думатель.runtimeconfig.json
+C:\Users\Yusuf\source\repos\Думатель\bin\Debug\net6.0\Думатель.dll
+C:\Users\Yusuf\source\repos\Думатель\bin\Debug\net6.0\Думатель.pdb
+C:\Users\Yusuf\source\repos\Думатель\obj\Debug\net6.0\Думатель.csproj.AssemblyReference.cache
+C:\Users\Yusuf\source\repos\Думатель\obj\Debug\net6.0\Думатель.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\source\repos\Думатель\obj\Debug\net6.0\Думатель.AssemblyInfoInputs.cache
+C:\Users\Yusuf\source\repos\Думатель\obj\Debug\net6.0\Думатель.AssemblyInfo.cs
+C:\Users\Yusuf\source\repos\Думатель\obj\Debug\net6.0\Думатель.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\Думатель\obj\Debug\net6.0\Думатель.dll
+C:\Users\Yusuf\source\repos\Думатель\obj\Debug\net6.0\refint\Думатель.dll
+C:\Users\Yusuf\source\repos\Думатель\obj\Debug\net6.0\Думатель.pdb
+C:\Users\Yusuf\source\repos\Думатель\obj\Debug\net6.0\Думатель.genruntimeconfig.cache
+C:\Users\Yusuf\source\repos\Думатель\obj\Debug\net6.0\ref\Думатель.dll
