@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yusuf\\Desktop\\Programming\\GitHub\\Dumatel\\Думатель.csproj": {}
+    "C:\\Users\\Yusuf\\Source\\Repos\\Dumatel\\Думатель.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yusuf\\Desktop\\Programming\\GitHub\\Dumatel\\Думатель.csproj": {
+    "C:\\Users\\Yusuf\\Source\\Repos\\Dumatel\\Думатель.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yusuf\\Desktop\\Programming\\GitHub\\Dumatel\\Думатель.csproj",
+        "projectUniqueName": "C:\\Users\\Yusuf\\Source\\Repos\\Dumatel\\Думатель.csproj",
         "projectName": "Думатель",
-        "projectPath": "C:\\Users\\Yusuf\\Desktop\\Programming\\GitHub\\Dumatel\\Думатель.csproj",
+        "projectPath": "C:\\Users\\Yusuf\\Source\\Repos\\Dumatel\\Думатель.csproj",
         "packagesPath": "C:\\Users\\Yusuf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yusuf\\Desktop\\Programming\\GitHub\\Dumatel\\obj\\",
+        "outputPath": "C:\\Users\\Yusuf\\Source\\Repos\\Dumatel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
