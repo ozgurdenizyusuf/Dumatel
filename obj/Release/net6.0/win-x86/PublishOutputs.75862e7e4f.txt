@@ -1,0 +1,2 @@
+C:\Users\Yusuf\Desktop\Programming\GitHub\Dumatel\bin\Release\net6.0\publish\win-x86\Думатель.pdb
+C:\Users\Yusuf\Desktop\Programming\GitHub\Dumatel\bin\Release\net6.0\publish\win-x86\Думатель.exe

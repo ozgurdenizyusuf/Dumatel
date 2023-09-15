@@ -5,8 +5,8 @@ Console.OutputEncoding = System.Text.Encoding.UTF8;
 Console.WriteLine("Задайте мне вопрос:");
 while (true)
 {
-    string soru = Console.ReadLine();
-    string cevap = "Ответ: 42";
-    Console.WriteLine(cevap);
+    string вопрос = Console.ReadLine();
+    string ответ = "Ответ: 42";
+    Console.WriteLine(ответ);
     Console.WriteLine("Задайте еще один вопрос:");
 }

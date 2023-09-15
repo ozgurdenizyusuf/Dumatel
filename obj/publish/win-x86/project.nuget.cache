@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+iX/WdiWNS90jRyntXU2EgXaxK8dBhzodZGDS0ZGJicoLvBVt8PndKJfK1lDu4gCwNoS543+Ai/Ge0B0Ib6PYA==",
+  "dgSpecHash": "SFEkdEs4oArs1J1pWHzHiNEQ76BjUqUgI1Jagi13OutzVv7nV/hqYCHXISirzzsW+7C/vxy8JGqnsgfQrZRgOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yusuf\\source\\repos\\Думатель\\Думатель.csproj",
+  "projectFilePath": "C:\\Users\\Yusuf\\Desktop\\Programming\\GitHub\\Dumatel\\Думатель.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yusuf\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.20\\microsoft.netcore.app.runtime.win-x86.6.0.20.nupkg.sha512",
     "C:\\Users\\Yusuf\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.20\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.20.nupkg.sha512",
